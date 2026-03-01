@@ -1,61 +1,79 @@
 <div align="center">
-  <h1 style="font-family: 'Playfair Display', serif; font-size: 3rem;">Kalpitha Srinivas</h1>
-  <p><i>Building infrastructure that just works.</i></p>
-  
-  <code><strong>DEVOPS ENGINEER</strong></code> | <code><strong>AWS</strong></code> | <code><strong>KUBERNETES</strong></code> | <code><strong>GITOPS</strong></code>
-  
-  <br><br>
 
-  <a href="https://kalpithasrinivas.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Portfolio-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/kalpitha-srinivas-740358220/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+# Kalpitha Srinivas
+
+**DevOps Engineer | AWS | Kubernetes | Terraform | GitOps**
+
+Building infrastructure that just works.
+
+<br>
+
+<a href="https://kalpithasrinivas.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_View_Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/kalpitha-srinivas-740358220/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:kalpithaasrinivas@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔧 **DevOps Engineer** with hands-on experience in **AWS, Kubernetes, Docker, and CI/CD automation**.
-- ☸️ Specialized in deploying scalable applications on **AWS EKS** using **Helm** and **Argo CD**.
-- 🔄 Built end-to-end GitOps pipelines for seamless production delivery.
-- 📍 Based in **Bengaluru, India**.
-- 🌐 Explore my full work history at **[kalpithasrinivas.github.io](https://kalpithasrinivas.github.io/)**.
+DevOps Engineer specializing in **AWS, Kubernetes, Terraform, Docker, and GitOps**.  
+Experienced in building **scalable cloud infrastructure**, implementing **CI/CD pipelines**, and deploying applications on **AWS EKS** using **Helm and Argo CD**.
+
+- Migrated **25+ microservices** to Kubernetes  
+- Built **end-to-end CI/CD pipelines** using GitHub Actions  
+- Implemented **GitOps workflows** using Argo CD  
+- Based in **Bengaluru, India**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### DevOps & Cloud
+### Cloud & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,helm,terraform,linux,git,github,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,git,github,githubactions" />
 </p>
 
-### Programming & Databases
+### Tools & Development
 <p>
 <img src="https://skillicons.dev/icons?i=python,react,mysql,mongodb" />
 </p>
 
 ---
 
-## 🚀 Featured Project
-### **End-to-End CI/CD and GitOps on AWS EKS**
-- **Architecture:** Containerized Go app via Docker, orchestrated with Kubernetes.
-- **Automation:** CI via GitHub Actions; CD via **Argo CD** (GitOps).
-- **Networking:** Exposed via NGINX Ingress and AWS LoadBalancer.
+## Featured Project
 
-👉 **[View Repository](https://github.com/kalpithasrinivas/go-web-app-devops)**
+### End-to-End CI/CD and GitOps on AWS EKS
+
+• Containerized application using Docker  
+• Kubernetes deployment using Helm  
+• CI with GitHub Actions  
+• CD using Argo CD (GitOps)  
+• AWS EKS with LoadBalancer and Ingress  
+
+**Repository:**  
+https://github.com/kalpithasrinivas/go-web-app-devops
 
 ---
 
-## 📊 GitHub Ecosystem
+## GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kalpithasrinivas&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5" />
+<img src="https://github-readme-stats.vercel.app/api?username=kalpithasrinivas&show_icons=true&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
 <div align="center">
-  <p>📫 Reach me at: <b>kalpithaasrinivas@gmail.com
+
+Portfolio: https://kalpithasrinivas.github.io  
+LinkedIn: https://linkedin.com/in/kalpitha-srinivas-740358220  
+
+</div>
