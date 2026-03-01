@@ -1,33 +1,84 @@
 <h1 align="center">Hi 👋, I'm Kalpitha Srinivas</h1>
-<h3 align="center">A passionate Computer Science Graduate from India</h3>
+<h3 align="center">DevOps Engineer | AWS | Kubernetes | CI/CD | GitOps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpithasrinivas&label=Profile%20views&color=0e75b6&style=flat" alt="kalpithasrinivas" /> </p>
+---
 
-- 🌱 I’m currently learning **DevOps** and **CI/CD pipeline management**  
-- 📫 How to reach me: **kalpithaasrinivas@gmail.com**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/kalpitha-srinivas/" target="_blank">LinkedIn</a> | 
-  <a href="https://github.com/kalpithasrinivas" target="_blank">GitHub</a>
+- 🔧 DevOps Engineer with hands-on experience in **AWS, Kubernetes, Docker, and CI/CD automation**
+- ☸️ Experienced in deploying applications on **AWS EKS using Helm and Argo CD**
+- 🔄 Built **end-to-end CI/CD pipelines using GitHub Actions and Docker**
+- 🌱 Currently learning **Advanced Kubernetes, Terraform, and Cloud Infrastructure**
+- 📍 Bengaluru, India
+- 📫 Reach me at: **kalpithaasrinivas@gmail.com**
+
+---
+
+## 🌐 Connect with me
+
+<p>
+<a href="https://linkedin.com/in/kalpitha-srinivas-740358220/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/kalpithasrinivas" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- DevOps and AI/ML Tools -->
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/> </a> 
-  <a href="https://www.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
+---
+
+## 🛠️ DevOps & Cloud Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,helm,terraform,linux,git,github,githubactions" />
 </p>
 
-<h3 align="left">Top Languages:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpithasrinivas&show_icons=true&locale=en&layout=compact" alt="kalpithasrinivas" />
+---
+
+## 💻 Programming & Other Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,react,mysql,mongodb,linux" />
 </p>
+
+---
+
+## 🚀 Featured DevOps Project
+
+**End-to-End CI/CD and GitOps Deployment on AWS EKS**
+
+- Containerized Go application using Docker  
+- Built CI pipeline using GitHub Actions  
+- Deployed on AWS EKS using Helm  
+- Implemented GitOps using Argo CD  
+- Exposed via NGINX Ingress and AWS LoadBalancer  
+
+🔗 https://github.com/kalpithasrinivas/go-web-app-devops  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kalpithasrinivas&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpithasrinivas&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ DevOps Focus Areas
+
+- CI/CD Pipelines
+- Kubernetes & Helm
+- AWS Cloud Infrastructure
+- Docker & Containerization
+- GitOps (Argo CD)
+- Monitoring & Troubleshooting
+
+---
+
+⭐ From [Kalpitha Srinivas](https://github.com/kalpithasrinivas)
