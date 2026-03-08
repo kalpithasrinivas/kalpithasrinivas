@@ -1,79 +1,133 @@
 <div align="center">
 
-# Kalpitha Srinivas
+<h1>Kalpitha Srinivas</h1>
 
-**DevOps Engineer | AWS | Kubernetes | Terraform | GitOps**
+<p><b>DevOps Engineer | AWS | Kubernetes | Terraform | GitOps</b></p>
 
-Building infrastructure that just works.
+<p><i>Building infrastructure that just works.</i></p>
 
 <br>
 
 <a href="https://kalpithasrinivas.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_View_Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_View_Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
+
 <a href="https://linkedin.com/in/kalpitha-srinivas-740358220/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:kalpithaasrinivas@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
----
+<hr>
 
-## About Me
+<h2>About Me</h2>
 
-DevOps Engineer specializing in **AWS, Kubernetes, Terraform, Docker, and GitOps**.  
-Experienced in building **scalable cloud infrastructure**, implementing **CI/CD pipelines**, and deploying applications on **AWS EKS** using **Helm and Argo CD**.
+<p>
+DevOps Engineer specializing in <b>AWS, Kubernetes, Terraform, Docker, and GitOps</b>.
+Experienced in building <b>scalable cloud infrastructure</b>, implementing <b>CI/CD pipelines</b>,
+and deploying <b>containerized applications on AWS EKS</b>.
+</p>
 
-- Migrated **25+ microservices** to Kubernetes  
-- Built **end-to-end CI/CD pipelines** using GitHub Actions  
-- Implemented **GitOps workflows** using Argo CD  
-- Based in **Bengaluru, India**
+<ul>
+<li>Migrated <b>25+ microservices</b> to Kubernetes</li>
+<li>Built <b>end-to-end CI/CD pipelines</b> using GitHub Actions</li>
+<li>Implemented <b>GitOps workflows</b> using Argo CD</li>
+<li>Experienced with <b>Helm-based Kubernetes deployments</b></li>
+<li>Based in <b>Bengaluru, India</b></li>
+</ul>
 
----
+<hr>
 
-## Tech Stack
+<h2>Tech Stack</h2>
 
-### Cloud & DevOps
+<h3>Cloud & DevOps</h3>
+
 <p>
 <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,git,github,githubactions" />
 </p>
 
-### Tools & Development
+<h3>Tools & Development</h3>
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,react,mysql,mongodb" />
 </p>
 
----
+<hr>
 
-## Featured Project
+<h2>Featured Projects</h2>
 
-### End-to-End CI/CD and GitOps on AWS EKS
+<h3>AWS EKS Three-Tier Microservices Deployment</h3>
 
-• Containerized application using Docker  
-• Kubernetes deployment using Helm  
-• CI with GitHub Actions  
-• CD using Argo CD (GitOps)  
-• AWS EKS with LoadBalancer and Ingress  
-
-**Repository:**  
-https://github.com/kalpithasrinivas/go-web-app-devops
-
----
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kalpithasrinivas&show_icons=true&theme=transparent&hide_border=true"/>
+<p>
+Deployed a <b>cloud-native microservices application on AWS EKS</b> using Kubernetes and Helm.
 </p>
 
----
+<ul>
+<li>Provisioned Kubernetes infrastructure on <b>Amazon EKS</b></li>
+<li>Deployed <b>Robot Shop microservices architecture</b></li>
+<li>Managed containerized services using <b>Kubernetes pods & services</b></li>
+<li>Implemented <b>Helm-based deployment strategy</b></li>
+<li>Exposed services via <b>AWS Load Balancer</b></li>
+</ul>
+
+<p>
+<b>Repository:</b><br>
+<a href="https://github.com/kalpithasrinivas/aws-eks-three-tier-microservices">
+https://github.com/kalpithasrinivas/aws-eks-three-tier-microservices
+</a>
+</p>
+
+<br>
+
+<h3>End-to-End CI/CD & GitOps Deployment on AWS EKS</h3>
+
+<p>
+Built a <b>fully automated DevOps pipeline</b> from code commit to production deployment.
+</p>
+
+<ul>
+<li>Containerized application using <b>Docker</b></li>
+<li>CI pipeline using <b>GitHub Actions</b></li>
+<li>Kubernetes deployment with <b>Helm charts</b></li>
+<li>GitOps continuous delivery using <b>Argo CD</b></li>
+<li>AWS EKS deployment with <b>Ingress + Load Balancer</b></li>
+</ul>
+
+<p>
+<b>Repository:</b><br>
+<a href="https://github.com/kalpithasrinivas/go-web-app-devops">
+https://github.com/kalpithasrinivas/go-web-app-devops
+</a>
+</p>
+
+<hr>
+
+<h2>GitHub Stats</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kalpithasrinivas&show_icons=true&theme=transparent&hide_border=true"/>
+
+</p>
+
+<hr>
 
 <div align="center">
 
-Portfolio: https://kalpithasrinivas.github.io  
-LinkedIn: https://linkedin.com/in/kalpitha-srinivas-740358220  
+<b>Portfolio</b><br>
+<a href="https://kalpithasrinivas.github.io">
+https://kalpithasrinivas.github.io
+</a>
+
+<br><br>
+
+<b>LinkedIn</b><br>
+<a href="https://linkedin.com/in/kalpitha-srinivas-740358220">
+https://linkedin.com/in/kalpitha-srinivas-740358220
+</a>
 
 </div>
